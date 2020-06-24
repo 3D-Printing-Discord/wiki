@@ -9,6 +9,15 @@ Please note that bots only update their internal version of this wiki once every
 ## Page Style
 To enable the wiki to be as accessible as possible (by both humans and bots!) please ensure that pages follow a standard formatting. 
 
+### Capitilisation
+Correct and consistent capitalisation is important. page titels should be capitilised but full caps should not be used.
+
+Acceptable:
+> Extruders
+
+Not Acceptable:
+> EXTRUDERS, extruders
+
 ### Bold Text
 Bold text can be created by using a double asterix "\*\*" on either side of the text you wish to make bold. Bold text should be used to **emphasise** specific words and phrases and **not** used on entire paragraphs.
 
