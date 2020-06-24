@@ -10,9 +10,9 @@ Please note that bots only update their internal version of this wiki once every
 When a new page is created: 
 * Add it to the Homepage Index [here](https://github.com/3DprinterDiscord/wiki/wiki#index-a-z) in it's alphabetically correct place (see the right hand sidebar) and to any other relevant sections on the [Homepage](https://github.com/3DprinterDiscord/wiki/wiki).
 
-> Use ` [page title](url) `
+Use ` [page title](url) `
 
-> Example of markdown for this: `[Extruders](https://github.com/3DprinterDiscord/wiki/wiki/Extruders)`
+Example of markdown for this: `[Extruders](https://github.com/3DprinterDiscord/wiki/wiki/Extruders)`
 
 * Update the total number of articles on the bottom of the Homepage [here](https://github.com/3DprinterDiscord/wiki/wiki#current-number-of-pages-on-wiki) (see the top of the right hand sidebar).
 
