@@ -73,17 +73,16 @@ When creating a table of contents use the following format:
 * [Filament Care](https://github.com/3DprinterDiscord/wiki/wiki/Materials#filament-care) 
 *****
 
-> ***** should be used on the lines before and after the table to display it as a separate section.
+***** should be used on the lines before and after the table to display it as a separate section.
 
-> The top line of the table should contain a link to the page itself.
+The top line of the table should contain a link to the page itself.
 
-> Each header should be added to the table and indented using bullet points (either * or - ) according to the heading type.
+Each header should be added to the table and indented using bullet points (either * or - ) according to the heading type.
 
-> The [materials](https://github.com/3DprinterDiscord/wiki/wiki/Materials) page contents table can be used as an example to refer to.
-
+The [materials](https://github.com/3DprinterDiscord/wiki/wiki/Materials) page contents table can be used as an example to refer to.
 
 ### Things to Avoid
-There are a couple of things which can make the wiki look confusing:
+There are a couple of things which can make the wiki look confusing or inconsistent:
 
 #### Additional Titles
 Github will automatically title pages for you so there is no need to include a top level title at the top of the page. This will end up creating a double title and will confuse the bot! 
