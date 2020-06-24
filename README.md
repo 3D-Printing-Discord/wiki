@@ -9,6 +9,8 @@ Please note that bots only update their internal version of this wiki once every
 ## Page Style
 To enable the wiki to be as accessible as possible (by both humans and bots!) please ensure that pages follow a standard formatting. 
 
+[GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+
 ### Capitilisation
 Correct and consistent capitalisation is important. page titels should be capitilised but full caps should not be used.
 
