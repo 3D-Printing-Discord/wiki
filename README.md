@@ -20,3 +20,15 @@ Created by:
 
 ### Intro 
 The first line of any page should be an introduction paragraph that describes the content on the page. Note that this will be used by the server bot as a descriptive text in bot commands. This should **not** be prefixed with a header such as "Introduction" and must begin on line 1. 
+
+### Things to Avoid
+There are a couple of things which can make the wiki look confusing:
+
+#### Additional Titles
+Github will automatically title pages for you so there is no need to inlcude a top level title at the top of the page. This will end up creating a double title and will confuse the bot! 
+
+#### Not Previewing Pages
+Github lets you preview you pages before you comit them to the wiki. Please use this feature to ensure the formatting looks as intended. 
+
+#### Ignoring this style guide
+If you have read this far I'm assuming that you will work within the guidence of this style guide! Please help maintain the wiki by flagging pages that are not correct within the issue tracker.
