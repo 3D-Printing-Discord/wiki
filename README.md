@@ -6,6 +6,16 @@ Contribution is currently restricted to specific members of the Discord server o
 
 Please note that bots only update their internal version of this wiki once every 6 hours and so changes here may take some time to trickle down to the server. 
 
+## Making New Pages
+When a new page is created: 
+* Add it to the Homepage Index [here](https://github.com/3DprinterDiscord/wiki/wiki#index-a-z) in it's alphabetically correct place (see the right hand sidebar) and to any other relevant sections on the [Homepage](https://github.com/3DprinterDiscord/wiki/wiki).
+
+> Use ` [page title](url) `
+
+> Example of markdown for this: `[Extruders](https://github.com/3DprinterDiscord/wiki/wiki/Extruders)`
+
+* Update the total number of articles on the bottom of the Homepage [here](https://github.com/3DprinterDiscord/wiki/wiki#current-number-of-pages-on-wiki) (see the top of the right hand sidebar).
+
 ## Page Style
 To make sure the wiki is as accessible as possible (by both humans and bots!) please ensure that pages follow a standard formatting. 
 
@@ -33,10 +43,17 @@ Created by:
 The first line of any page should be an introduction paragraph that describes the content on the page. Note that this will be used by the server bot as a descriptive text in bot commands. This should **not** be prefixed with a header such as "Introduction" and must begin on line 1. 
 
 ### Additional Detail Page
-When further detail is required for a topic please create a new page if one does not already exist and use the following format to link to it:
+When further detail is required for a topic please: 
+
+* Create a new page if one does not already exist and use the following format to link to it:
+* If a page exists, add a link to that page in the following format:
 
 `*For additional details see: 
-[Page Title](url)*`
+[Page Title](url)*` 
+
+> (`* *` makes the text *italic*)
+
+* Follow the instructions above for Making New Pages to update the homepage
 
 
 ### Tables of Contents
