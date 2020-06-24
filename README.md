@@ -4,7 +4,7 @@ This is the wiki for the 3D Printers Discord.
 ## Contribution
 Currently contribution is currently restricted to specific members of the Discord server only due to the manual nature of adding collaborators. Once the wiki is established it is intended that any regular member of the Discord server will be able to contribute.
 
-Please note that bots only update their internal version of this wiki once every ___ hours and so changes here may take some time to trickle down to the server. 
+Please note that bots only update their internal version of this wiki once every 6 hours and so changes here may take some time to trickle down to the server. 
 
 ## Page Style
 To enable the wiki to be as accessible as possible (by both humans and bots!) please ensure that pages follow a standard formatting. 
