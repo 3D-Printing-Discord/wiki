@@ -35,8 +35,8 @@ The first line of any page should be an introduction paragraph that describes th
 ### Additional Detail Page
 When further detail is required for a topic please create a new page if one does not already exist and use the following format to link to it:
 
-`For additional details see: 
-[Page Title](url)`
+`*For additional details see: 
+[Page Title](url)*`
 
 
 ### Tables of Contents
