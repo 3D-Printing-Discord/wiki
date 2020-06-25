@@ -21,8 +21,11 @@ To make sure the wiki is as accessible as possible (by both humans and bots!) pl
 
 [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
+### Linking
+Associated pages should be linked inline with body text only in the first instance of their use. 
+
 ### Capitalisation
-Correct and consistent capitalisation is important. Page titles should be capitalised but full caps should not be used.
+Correct and consistent capitalisation is important. Page titles should be capitalised but full caps should not be used. The same applies to headings and body text.
 
 Acceptable:
 > Extruders
@@ -48,7 +51,7 @@ When further detail is required for a topic please:
 * Create a new page if one does not already exist and use the following format to link to it:
 * If a page exists, add a link to that page in the following format:
 
-`*For additional details see: 
+`* For additional details see: 
 [Page Title](url)*` 
 
 > (`* *` makes the text *italic*)
