@@ -45,6 +45,36 @@ Created by:
 ### Intro 
 The first line of any page should be an introduction paragraph that describes the content on the page. Note that this will be used by the server bot as a descriptive text in bot commands. This should **not** be prefixed with a header such as "Introduction" and must begin on line 1. 
 
+### Notes on Pages
+You may come across notices at the top of certain pages, such as:
+
+This page is incomplete. You can help by expanding upon it. For more details on how to contribute to this wiki see the [how to contribute](https://github.com/3DprinterDiscord/wiki/wiki/How-to-contribute-to-this-wiki) page.|
+:--:|
+
+> `This page is incomplete. You can help by expanding upon it. For more details on how to contribute to this wiki see the [how to contribute](https://github.com/3DprinterDiscord/wiki/wiki/How-to-contribute-to-this-wiki) page.|`
+
+> `:--:|`
+
+> Ensure that the `:--|` is on the next line to the appended `|`.
+
+or 
+
+This page may be outdated. You can help by expanding upon it or editing it to reflect current changes. For more details on how to contribute to this wiki see the [how to contribute](https://github.com/3DprinterDiscord/wiki/wiki/How-to-contribute-to-this-wiki) page.|
+:--:|
+
+as well as text boxes noting other things, for example this note from the [Types of Printing](https://github.com/3DprinterDiscord/wiki/wiki/Types-of-Printing/) page.
+
+Note: this page ties in with the [materials](https://github.com/3DprinterDiscord/wiki/wiki/Materials) page and the [motion systems](https://github.com/3DprinterDiscord/wiki/wiki/Motion-Systems) page.|
+:--:|
+
+These use the standard markdown table formatting, as shown above.
+
+Notices like these are added to denote exactly what they say, a 'may be outdated notice' should be used when a page contains potentially outdated information which does not reflect the current situation or views, whilst a 'this page is incomplete' notice should be added to stubs or shorter pages which need clarification or which need expanding upon. 
+
+If you come a page with a note like this you may want to consider editing or additing to it. If you come across a page with a notice that you believe no longer needs it, it can be removed. Similarly, if you feel that your edits of a page mean that the notice is no longer required it can also be removed.
+
+
+
 ### Additional Detail Page
 When further detail is required for a topic please: 
 
