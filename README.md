@@ -67,7 +67,7 @@ as well as text boxes noting other things, for example this note from the [Types
 Note: this page ties in with the [materials](https://github.com/3DprinterDiscord/wiki/wiki/Materials) page and the [motion systems](https://github.com/3DprinterDiscord/wiki/wiki/Motion-Systems) page.|
 :--:|
 
-These use the standard markdown table formatting, as shown above.
+These use the standard markdown table formatting, as shown above. They should be put directly **beneath** the introduction paragraph.
 
 Notices like these are added to denote exactly what they say, a 'may be outdated notice' should be used when a page contains potentially outdated information which does not reflect the current situation or views, whilst a 'this page is incomplete' notice should be added to stubs or shorter pages which need clarification or which need expanding upon. 
 
